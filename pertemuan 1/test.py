@@ -12,5 +12,5 @@
 def anjay(x,y):
     return x+y
 
-# Aplikasi
+# Aplikasidaadadawddawwad
 print(anjay(3,3))
